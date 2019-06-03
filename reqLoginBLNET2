@@ -1,0 +1,11 @@
+GET /newlogin/login.aspx?logindialog=Default&h=b344766f35cba541e848c53e08da3f44d0b15cb1eb2ad03e3e73bd8c4ca50015 HTTP/1.1
+Host: my.brainloop.net
+Connection: close
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: https://my.brainloop.net/default.aspx?cookieCheck=true&h=58f8aef0918ff07ca31c9796ccd4b8ad2e324f994b2a2f3bdf2a9a8f3b9e54e5
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: myblnet_cookie_check=SupportCookies=true; Brainloop_SessionId=E6zgmSMBCH8OGqrmx2kd1GEdL2FS7Z689EciHd/ANIA=; ASP.NET_SessionId=zsvzk42rqi0d4fmaa0ubuplv
+

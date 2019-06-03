@@ -1,0 +1,13 @@
+GET /web/health HTTP/1.1
+Host: services.brainloop.info
+Connection: close
+Accept: application/json
+Expires: -1
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1,private
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Content-Type: application/json
+Referer: https://services.brainloop.info/web/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+

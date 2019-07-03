@@ -8,3 +8,14 @@ is a python library which makes it easier to send complex HTTP requests. It is i
 
 
 This library works with python3 and is mostly based on _Requests_ and _BassHTTPRequestHandler_ classes.
+
+Examples
+
+Import request from file, replace string value in request and send.
+
+```python
+req=HTTPRequest("./PATH/TO/REQUEST")
+req.replaceString("String to be replaced" ,"Replacement string")
+req.printFields()
+```
+ 
